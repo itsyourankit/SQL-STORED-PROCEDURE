@@ -1,1 +1,16 @@
-
+✅ Beginner-Level SP Practice Questions
+1. Create a stored procedure to return all rows from the Employees table.
+2. Write a procedure that accepts a department name and returns all employees from that department.
+3. Create a procedure to insert a new employee record (pass name, department, salary as parameters).
+4. Write a procedure that increases the salary of an employee by 10% using their ID.
+5. Create a stored procedure that deletes a customer from the Customers table by ID.
+6. Write a procedure that accepts a product ID and returns its details from the Products table.
+7. Create a procedure that accepts two numbers and returns their sum.
+8. Write a procedure to count how many employees work in a given department.
+9. Create a stored procedure to list all customers who joined after a specific date (passed as parameter).
+10. Write a procedure to return the average salary of employees in a specific department.
+11. Create a procedure that updates the contact number of a customer based on their ID.
+12. Write a procedure to return the highest salary from the Employees table.
+13. Create a procedure that lists all orders between two dates (both dates as parameters).
+14. Create a stored procedure to check if a given product is in stock (product ID as input, stock message as output).
+15. Write a procedure that returns the total number of employees in the company.
